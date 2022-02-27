@@ -1,16 +1,13 @@
 # :alarm_clock: AlarmSticker
 *Wearable, **Stickable** Alarm Clock for Arduino*
 
-CODE
----
+### CODE
 - [AlarmSticker.ino](./AlarmSticker/AlarmSticker.ino): Main Code
 
-CIRCUIT & IMAGE
----
+### CIRCUIT & IMAGE
 - I'll upload as soon as done
 
-LICENSE
----
+### LICENSE
 Apache-2.0 License, check [LICENSE.md](./LICENSE.md) for more
 
 > 2022, RedoC
