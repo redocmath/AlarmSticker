@@ -21,9 +21,8 @@ void loop() {
 void display() {
   int hour = time/(60*60);
   int minute = time%(60*60)/60;
-  int _debug_second = time%60;
-  tm.display(0, minute/10);
-  tm.display(1, minute%10);
-  tm.display(2, _debug_second/10);
-  tm.display(3, _debug_second%10);
+  tm.display(0, hour/10);
+  tm.display(1, hour%10);
+  tm.display(2, minute/10);
+  tm.display(3, minute%10);
 }
