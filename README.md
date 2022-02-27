@@ -3,7 +3,7 @@
 
 CODE
 ---
-- [AlarmSticker.ino](./AlarmSticker.ino): Main Code
+- [AlarmSticker.ino](./AlarmSticker/AlarmSticker.ino): Main Code
 
 CIRCUIT & IMAGE
 ---
