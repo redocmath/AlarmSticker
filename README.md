@@ -6,8 +6,9 @@
 
 ### CIRCUIT & IMAGE
 - [Schematic](./Circuit_schem.png)
+![Schematic](./Circuit_schem.png)
 - [Breadboard](./Circuit_bb.png)
-
+![Breadboard](./Circuit_bb.png)
 ### LICENSE
 Apache-2.0 License, check [LICENSE.md](./LICENSE.md) for more
 
