@@ -5,8 +5,10 @@
 - [AlarmSticker.ino](./AlarmSticker/AlarmSticker.ino): Main Code
 
 ### CIRCUIT & IMAGE
-- I'll upload as soon as done
-
+- [Schematic](./Circuit_schem.png)
+![Schematic](./Circuit_schem.png)
+- [Breadboard](./Circuit_bb.png)
+![Breadboard](./Circuit_bb.png)
 ### LICENSE
 Apache-2.0 License, check [LICENSE.md](./LICENSE.md) for more
 
